@@ -9,6 +9,10 @@
 * [16,21]--[11]-- [8,12]--[22]
 * [16]  -   [21]  -  [11]   -    [8]   -  [12]  -   [22]  
 
-##1. ADIM **[16,21]**   **[8,11]**   **[12,22]**
+* [16,21] [8,11]  [12,22] // Birleştirirken sıralama işlemi yapılır.
+* [8,11,16,21]   [12,22]  // Artık diziler sıralı olduğu için daha az sayıda kıyaslama işlemi yapılacaktır. Dizinin en solundaki sayı ile yapılması yeterli olacaktır.
+* [8,11,16,12,21,22]
+
+----------------------------------------------------------------------------------------------------------------------
 
 

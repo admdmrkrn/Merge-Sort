@@ -1,4 +1,4 @@
-##Proje 2
+#Proje 2
 * [16,21,11,8,12,22] -> Merge Sort
 
 * Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
@@ -14,7 +14,12 @@
 * [8,11,16,12,21,22]
 
 ----------------------------------------------------------------------------------------------------------------------
-## Big-O Gösterimi
-### O(nlog(n))
+### Big-O Gösterimi
+#### O(nlog(n))
+
+#Proje 3
+- [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+- Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 

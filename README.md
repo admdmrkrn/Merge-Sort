@@ -22,4 +22,11 @@
 
 - Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-
+* Binary-Search-Tree aşamaları
+* Root=5
+* o(logN)
+   
+                       5
+                1             7
+           0       3       6       8
+               2      4             9
